@@ -1,0 +1,27 @@
+Metadata-Version: 2.0
+Name: zoomus2
+Version: 0.2.0
+Summary: Python client library for Zoom.us REST API v1 and v2
+Home-page: https://github.com/exolever/zoomus
+Author: Tomas Garzon, based on Patrick R. Schmid
+Author-email: tomas@exolever.com
+License: Apache Software License
+Platform: any
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Development Status :: 4 - Beta
+Classifier: Natural Language :: English
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Internet
+Classifier: Topic :: Office/Business
+Classifier: Topic :: Software Development :: Libraries
+Requires-Dist: PyJWT
+Requires-Dist: requests
+
+Python client library for Zoom.us REST API v1 and v2
+
+
