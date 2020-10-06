@@ -1,10 +1,10 @@
 {
   "type": "service_account",
   "project_id": "zoomwhatbot",
-  "private_key_id": "9ee6ce90b30d238edf307750a24ccbac44ad647e",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJ7qCIItT/f0AN\n9kPWc4J+phm4PObismP7ID3qWix+spz7Q0Tay90fZhNdlrgiy9THS1cW0QMzPpoN\n3A6qZVm0w+jkC6pNQvWYy2FNmFbYiYh32kq93/9FMwXM9huBg7mv3d+upm/Jhrgi\n9iOjFMn2cnp/6aKJVp1sKVA9zseDQ8wdE7K3GPqbhywk0sak1yBuYlbD3Q+zmPs1\nrQ4fLzB1CDytX2trsrLi6mzlibNAnZiyhDliXI5NjQIYNrbh+vhm3aIsWCL97FbK\n5jRsDVu6GWZhxfi0TF9dyorh7dyq19KK6aXS4v3HH7VGlepe0PJ9UFhxGC7+qcP3\np06j2Q8dAgMBAAECggEAAsPvU93yP8t805QfSrULQPPCX2kKGmmp/9rprids+5Ez\noCdELqDjFtZ9hmcVf3h+IfqQp0HWguGlF3J/iurXZyfVrSXRv7weg+ipHPhsnAuK\nIGYPZvlF1CtGNY/bQZNNvDBUK16hIkfjhqsLQuT6fRMFRXIsJShYAI6ySB5oUg5Z\n3oNb93/keRSF2qLxhqSKThm8fVjsrkhQWT+7pJXpYDLfGL4ieF5uXefTaO+jyKLE\nemBo1cjuIL2g5bEhudTnppGYzKD6QXI3oLWm1YKfnXTyG4zDWSYKXv4uoIFbRpfH\ngwnXCWatOz66IdFd+KcKahCsIZN6veXEW63/g9oA2wKBgQD83Hq219w76ZC9bI1M\ny0HplmFFsJa4EfIFBTI8AKE/HLVsUDqcOxJgA2BItpRpSG01S4IfiomkW6ZMzyee\nOZOMm3v8rLOPZ9fTfF3B4OChebc3UhwSf7xtk9o/CACzSFDpet6AAtAwnJ+6dASc\nuGlYvhuf1yAaZ5ePmdu7yV2RvwKBgQDMcE9BgpNSdKNOA8Y2y3HcGStBiqu8Z1Kj\nBmJSPg68+PvgBPCM3xOigDcwqL12Y0fjSjs7BIfHYe0WLKtt9D1ai4928M2Kev2H\nv7E5Trd1oQ+7ZiCWOLrd9JD+NqIQcOptm2yI3SIqmneZr8TZRJCn1gAJ9zW+V1F0\nRk3fDfZeIwKBgCafHncy/UaBZEQqgmKKYSTmfTEByeOPiiHOK2AS0I4tOmCy2GDo\nfOQBYAF7MavrDhMn11Yt+NwLy5jLw0ddj/XYAdYUItDykXqR8lgcmvLO/ncKqZMB\nw6wQ+zLJbCH2F7WxuK5gv5/NLHB0LAgr+ps9XkbJuvONgw7B91f1Z79NAoGBAK//\nr/uR0gqWZ1BuZ2Ic2zTEZjzSiO51dOrsQBDVZBLDtvMwzXY5RcoL33eAjTsyVV0T\nNtKkH9BCOb1xT1Qlg/xDUYrv28NwBnurR4MyhTY7JjQKw9sPk7ApL/nqRrMowmkB\n+PoKhbNvr68bZrg1EuOqk/YAYMAwo+sZ60gv2P1JAoGBAOJvtVTJCeOA47AZMfWN\noddj8WocUJNJky/jC1QEfEUTc6cGtKsBFOPKTlwaksgbsa+cg9jIKF7StIbx2D54\neIEA3p2ODq0x9bZ2dTK5F9zDjXrTK2WZpGoE0iTEuJwa2W/1LSM8H3nfMCv3JqpO\nhCWgHzIBTs/W5TBX+uuyfU06\n-----END PRIVATE KEY-----\n",
+  "private_key_id": "",
+  "private_key": "",
   "client_email": "zoomwhatbot@zoomwhatbot.iam.gserviceaccount.com",
-  "client_id": "110823076100206358778",
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
