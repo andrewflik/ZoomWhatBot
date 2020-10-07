@@ -1,5 +1,5 @@
 ### ZoomWhatBot
-Schedule, Create, Get Attendance all from a WhatsApp BOT created using Twilio
+Schedule, Create, Get Attendance all from a WhatsApp BOT created using Twilio.
 
 ### Commands (cmd, about, create, now, get)
 
